@@ -1,0 +1,47 @@
+Rice grows well in clay soil with high rainfall and warm climate.
+Rice requires standing water during early growth stages.
+Wheat grows best in cool climate with loamy soil and moderate rainfall.
+Maize requires well-drained soil and moderate rainfall.
+Maize grows well in warm climate with good sunlight.
+Ragi grows in dry regions with low rainfall and sandy soil.
+Groundnut prefers sandy loam soil and warm climate.
+Groundnut requires less rainfall and well-drained soil.
+Sugarcane needs high rainfall and fertile loamy soil.
+Sugarcane requires a long growing season with plenty of sunlight.
+Cotton grows in black soil with warm climate.
+Cotton requires moderate rainfall and plenty of sunshine.
+
+Tomato grows well in well-drained loamy soil.
+Tomato requires warm climate and moderate watering.
+Potato grows best in cool climate and sandy loam soil.
+Potato requires well-drained soil and moderate irrigation.
+Onion grows in sandy loam soil with good drainage.
+Onion requires mild climate and moderate watering.
+Brinjal grows in fertile soil with warm climate.
+Brinjal requires regular watering and sunlight.
+
+Rice leaf blight disease can be controlled using fungicides.
+Rice blast disease affects leaves and reduces yield.
+Tomato leaf curl disease is caused by whiteflies and can be controlled using neem oil.
+Potato late blight disease causes leaf damage and requires fungicide treatment.
+Groundnut leaf spot disease reduces crop quality and needs proper spraying.
+Cotton bollworm is a pest that damages cotton plants.
+Neem oil can be used as a natural pesticide for many crops.
+
+Urea fertilizer provides nitrogen and promotes leaf growth.
+DAP fertilizer provides phosphorus for root development.
+Potassium fertilizers improve disease resistance in plants.
+Compost improves soil fertility and structure naturally.
+Organic manure increases soil nutrients and water retention.
+
+Sandy soil drains water quickly and is suitable for groundnut and watermelon.
+Clay soil retains water and is suitable for rice cultivation.
+Loamy soil is ideal for most crops due to balanced properties.
+
+High rainfall crops include rice and sugarcane.
+Low rainfall crops include ragi and groundnut.
+Moderate rainfall crops include maize and wheat.
+
+Crop rotation helps maintain soil fertility and reduce pests.
+Drip irrigation saves water and improves crop yield.
+Overwatering can damage roots and reduce productivity.
