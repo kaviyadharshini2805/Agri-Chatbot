@@ -6,7 +6,8 @@ Agri Chatbot is an offline AI-powered agriculture assistance system developed us
 The application processes agricultural documents by splitting them into smaller text chunks, converting them into vector embeddings, and storing them in a FAISS vector database for efficient semantic similarity search. When a user asks a question, the chatbot retrieves the most relevant content and displays context-based answers through an interactive Streamlit interface.
 
 This project demonstrates the practical implementation of Natural Language Processing (NLP), vector databases, semantic search, and AI-driven information retrieval in the agriculture domain.
-Live Demo: https://kaviyadharshini-agri-chatbot.streamlit.app/
+
+# Live Demo: https://kaviyadharshini-agri-chatbot.streamlit.app/
 
 ---
 
