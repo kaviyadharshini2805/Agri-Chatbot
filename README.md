@@ -97,7 +97,3 @@ streamlit run app.py
 Kaviyadharshini M
 
 ---
-
-## License
-
-This project is for educational and learning purposes.
